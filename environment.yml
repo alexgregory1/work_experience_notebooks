@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - geopandas
+  - plotly
+  - jupyterlab
+  - seaborn
