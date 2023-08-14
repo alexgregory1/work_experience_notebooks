@@ -2,7 +2,7 @@
 
 ## Setting up a Virtual Environment
 
-Install miniforge which is an open source version of the conda package manager. On Mac, you can install it using the following command.
+Install miniforge which is an open source version of the conda package manager. The official install instructions can be found here https://github.com/conda-forge/miniforge#install. On Mac, you can install it using the following command.
 
 ```
 curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
