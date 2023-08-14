@@ -39,7 +39,7 @@ $ cd work_experience_notebooks
 Create a conda environment called `census` and install the packages in `environment.yml`.
 
 ```
-$ conda create -n census -f environment.yml
+$ conda env create -n census -f environment.yml
 ```
 
 Activate the environment.
