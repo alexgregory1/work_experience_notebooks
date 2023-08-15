@@ -1,0 +1,11 @@
+"date","geography","geography code","Country of birth: Total; measures: Value","Country of birth: Europe; measures: Value","Country of birth: Europe: United Kingdom; measures: Value","Country of birth: Europe: EU countries; measures: Value","Country of birth: Europe: EU countries: European Union EU14; measures: Value","Country of birth: Europe: EU countries: European Union EU8; measures: Value","Country of birth: Europe: EU countries: European Union EU2; measures: Value","Country of birth: Europe: EU countries: All other EU countries; measures: Value","Country of birth: Europe: Non-EU countries; measures: Value","Country of birth: Europe: Non-EU countries: All other non-EU countries; measures: Value","Country of birth: Africa; measures: Value","Country of birth: Middle East and Asia; measures: Value","Country of birth: The Americas and the Caribbean; measures: Value","Country of birth: Antarctica and Oceania (including Australasia) and Other; measures: Value","Country of birth: British Overseas ; measures: Value"
+"2021","North East","E12000001",2647013,2536430,2467870,61727,30080,20355,8981,2311,6833,6833,26473,71693,9171,2973,273
+"2021","North West","E12000002",7417399,6885187,6551993,305712,139892,115979,43717,6124,27482,27482,128962,347989,43345,10035,1881
+"2021","Yorkshire and The Humber","E12000003",5480774,5117879,4858514,240412,78153,119411,37722,5126,18953,18953,83583,241324,28969,7725,1294
+"2021","East Midlands","E12000004",4880054,4520575,4210674,281145,87123,134195,53134,6693,28756,28756,109189,209919,31681,7006,1684
+"2021","West Midlands","E12000005",5950759,5373979,5048322,300823,117983,111088,66232,5520,24834,24834,132413,382278,51874,7446,2769
+"2021","East","E12000006",6335074,5854022,5390705,416055,163088,154857,86812,11298,47262,47262,137951,247816,77787,16002,1496
+"2021","London","E12000007",8799726,6590522,5223986,1122663,578889,258229,242504,43041,243873,243873,625071,1146247,367664,64228,5994
+"2021","South East","E12000008",9278065,8442839,7815950,558693,260715,183759,97642,16577,68196,68196,234451,450867,111488,34945,3475
+"2021","South West","E12000009",5701186,5408903,5119492,264534,122751,92517,40470,8796,24877,24877,77765,143568,51397,17644,1909
+"2021","Wales","W92000004",3107494,2992209,2892064,91477,41593,35233,11878,2773,8668,8668,28719,69329,12377,4543,317
