@@ -12,6 +12,14 @@ region_sizes = {"Country" : "ctry",
                 "Lower-Layer Super Output Area" : "lsoa",   #400-1200 households; 1000-3000 persons
                 "Output Area" : "oa"}                       #40-250 households; 100-625 persons
 
+region_indices = {3 : "ctry", #how many are per country
+                  10 : "rgn",
+                  174 : "utla",
+                  331 : "ltla",
+                  7264 : "msoa",
+                  35672 : "lsoa",
+                  188800 : "oa"}
+
 regions = list(region_sizes.values())
 
 def import_data(region : str, target_groups : list = None, target_codes: list = None): 
@@ -138,3 +146,12 @@ def cleanup(dataframe, columns : list):
         except KeyError:
             warnings.warn(f"Column {column} does not exist ")
     return dataframe
+
+def factor_in_age(df):
+    df_age = import_data(region_indices[len(df.index)], target_codes=["TS004"])["TS004"]
+    df_age_totals_column = [column for column in list(df_age.columns) if "Total" in column][0]
+    df_totals_column = [column for column in list(df.columns) if "Total" in column][0]
+    df["Not Accounted For"] = df_age[df_age_totals_column] - df[df_totals_column]
+    df[df_totals_column] = df_age[df_age_totals_column]
+    df.rename(columns={df_totals_column:"Total"}, inplace=True)
+    return df
