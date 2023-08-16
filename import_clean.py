@@ -64,7 +64,10 @@ def import_data(region : str, target_groups : list = None, target_codes: list = 
             warnings.warn(f"The following codes were not imported as they are invalid: {output_erroneous_codes}\nEnsure codes are in the form 'TSXXX' where X's are digits, as found on https://www.nomisweb.co.uk/census/2021/bulk")
     
     if target_groups:
-        target_codes = target_codes if target_codes is not None else []
+        try:
+            valid_target_codes = valid_target_codes
+        except UnboundLocalError:
+            valid_target_codes = []
         for group in valid_target_groups:
             valid_target_codes.append(codes.loc[codes["Description"] == group,"Code"].item())
 
