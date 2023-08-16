@@ -1,0 +1,78 @@
+Code,Description,Filename
+TS001,Number of usual residents in households and communal establishments,census2021-ts001.zip
+TS002,Legal partnership status,census2021-ts002.zip
+TS003,Household composition,census2021-ts003.zip
+TS004,Country of birth,census2021-ts004.zip
+TS005,Passports held,census2021-ts005.zip
+TS006,Population density,census2021-ts006.zip
+TS007,Age by single year of age,census2021-ts007.zip
+TS007A,Age by five-year age bands,census2021-ts007a.zip
+TS008,Sex,census2021-ts008.zip
+TS009,Sex by single year of age,census2021-ts009.zip
+TS010,Living arrangements,census2021-ts010.zip
+TS011,Households by deprivation dimensions,census2021-ts011.zip
+TS012,Country of birth (detailed),census2021-ts012.zip
+TS013,Passports held (detailed),census2021-ts013.zip
+TS015,Year of arrival in UK,census2021-ts015.zip
+TS016,Length of residence,census2021-ts016.zip
+TS017,Household size,census2021-ts017.zip
+TS018,Age of arrival in the UK,census2021-ts018.zip
+TS019,Migrant Indicator,census2021-ts019.zip
+TS020,Number of non-UK short-term residents by sex,census2021-ts020.zip
+TS041,Number of Households,census2021-ts041.zip
+TS071,Previously served in the UK armed forces,census2021-ts071.zip
+TS072,Number of people in household who have previously served in UK armed forces,census2021-ts072.zip
+TS073,Population who have previously served in UK armed forces in communal establishments and in households,census2021-ts073.zip
+TS074,Household Reference Person indicator of previous service in UK armed forces,census2021-ts074.zip
+TS021,Ethnic group,census2021-ts021.zip
+TS022,Ethnic group (detailed),census2021-ts022.zip
+TS023,Multiple ethnic group,census2021-ts023.zip
+TS024,Main language (detailed),census2021-ts024.zip
+TS025,Household language,census2021-ts025.zip
+TS026,Multiple main languages in households,census2021-ts026.zip
+TS027,National identity - UK,census2021-ts027.zip
+TS028,National identity (detailed),census2021-ts028.zip
+TS029,Proficiency in english,census2021-ts029.zip
+TS030,Religion,census2021-ts030.zip
+TS031,Religion (detailed),census2021-ts031.zip
+TS075,Multi religion households,census2021-ts075.zip
+TS032,Welsh language skills (detailed),census2021-ts032.zip
+TS033,Welsh language skills (speaking),census2021-ts033.zip
+TS034,Welsh language skills (writing),census2021-ts034.zip
+TS035,Welsh language skills (reading),census2021-ts035.zip
+TS036,Welsh language skills (understanding),census2021-ts036.zip
+TS076,Welsh language skills (speaking) by single year of age,census2021-ts076.zip
+TS058,Distance travelled to work,census2021-ts058.zip
+TS059,Hours worked,census2021-ts059.zip
+TS060,Industry,census2021-ts060.zip
+TS061,Method of travel to work,census2021-ts061.zip
+TS062,NS-SeC,census2021-ts062.zip
+TS063,Occupation,census2021-ts063.zip
+TS064,Occupation - minor groups,census2021-ts064.zip
+TS065,Unemployment history,census2021-ts065.zip
+TS066,Economic activity status,census2021-ts066.zip
+TS044,Accommodation type,census2021-ts044.zip
+TS045,Car or van availability,census2021-ts045.zip
+TS046,Central heating,census2021-ts046.zip
+TS047,Communal establishment residents by age and sex,census2021-ts047.zip
+TS048,Communal establishment management and type,census2021-ts048.zip
+TS050,Number of bedrooms,census2021-ts050.zip
+TS051,Number of rooms,census2021-ts051.zip
+TS052,Occupancy rating for bedrooms,census2021-ts052.zip
+TS053,Occupancy rating for rooms,census2021-ts053.zip
+TS054,Tenure,census2021-ts054.zip
+TS055,Purpose of second address,census2021-ts055.zip
+TS056,Second address indicator,census2021-ts056.zip
+TS079,Sexual orientation (detailed),census2021-ts079.zip
+TS070,Gender identity (detailed),census2021-ts070.zip
+TS077,Sexual orientation,census2021-ts077.zip
+TS078,Gender identity,census2021-ts078.zip
+TS067,Highest level of qualification,census2021-ts067.zip
+TS068,Schoolchildren and full-time students,census2021-ts068.zip
+TS037,General health,census2021-ts037.zip
+TS038,Disability,census2021-ts038.zip
+TS039,Provision of unpaid care,census2021-ts039.zip
+TS040,Number of disabled people in the household,census2021-ts040.zip
+TS037ASP,General health - age-standardised proportions,census2021-ts037asp.zip
+TS038ASP,Disability - age-standardised proportions,census2021-ts038asp.zip
+TS039ASP,Provision of unpaid care - age-standardised proportions,census2021-ts039asp.zip
