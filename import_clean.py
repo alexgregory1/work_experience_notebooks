@@ -150,11 +150,15 @@ def cleanup(dataframe, columns : list):
             warnings.warn(f"Column {column} does not exist ")
     return dataframe
 
-def factor_in_age(df):
+def factor_in_age(df, name=None):
     df_age = import_data(region_indices[len(df.index)], target_codes=["TS004"])["TS004"]
     df_age_totals_column = [column for column in list(df_age.columns) if "Total" in column][0]
     df_totals_column = [column for column in list(df.columns) if "Total" in column][0]
-    df["Not Accounted For"] = df_age[df_age_totals_column] - df[df_totals_column]
+    if name is not None:
+        name = str(name)
+    else:
+        name = "Not accounted for"
+    df[name] = df_age[df_age_totals_column] - df[df_totals_column]
     df[df_totals_column] = df_age[df_age_totals_column]
     df.rename(columns={df_totals_column:"Total"}, inplace=True)
     return df
