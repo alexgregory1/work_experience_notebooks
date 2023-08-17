@@ -1,0 +1,201 @@
+,uid,variable1,variable2,coefficient,k1,k2
+28591,28591,Country of birth: Europe: United Kingdom; measures: Value,Age of arrival in the UK: Born in the UK; measures: Value,0.9999999966910593,TS004,TS018
+28221,28221,Country of birth: Europe: United Kingdom; measures: Value,Year of arrival in the UK: Born in the UK; measures: Value,0.9999999927705955,TS004,TS015
+116600,116600,Year of arrival in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Born in the UK; measures: Value,0.9999999917430114,TS015,TS018
+151619,151619,Multiple ethnic groups in household: One-person household,Multiple main languages in household: One-person household,0.9999999677790348,TS023,TS026
+171191,171191,Distance travelled to work: Works mainly from home,Method of travel to workplace: Work mainly at or from home,0.9999999110169316,TS058,TS061
+18080,18080,Household composition: One person household; measures: Value,Multiple ethnic groups in household: One-person household,0.9999998922880325,TS003,TS023
+18269,18269,Household composition: One person household; measures: Value,Multiple main languages in household: One-person household,0.999999808074173,TS003,TS026
+124551,124551,Household size: 1 person in household; measures: Value,Multiple ethnic groups in household: One-person household,0.9999997314191686,TS017,TS023
+124984,124984,Household size: 1 person in household; measures: Value,Multi religion household: One-person household,0.9999997230238559,TS017,TS075
+124632,124632,Household size: 1 person in household; measures: Value,Multiple main languages in household: One-person household,0.9999997161320395,TS017,TS026
+16632,16632,Household composition: One person household; measures: Value,Household size: 1 person in household; measures: Value,0.9999996270714647,TS003,TS017
+28382,28382,Country of birth: Europe: United Kingdom; measures: Value,Length of residence in the UK: Born in the UK; measures: Value,0.9999995024068071,TS004,TS016
+116432,116432,Year of arrival in the UK: Born in the UK; measures: Value,Length of residence in the UK: Born in the UK; measures: Value,0.9999995018183163,TS015,TS016
+121841,121841,Length of residence in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Born in the UK; measures: Value,0.9999995012270411,TS016,TS018
+151814,151814,Multiple ethnic groups in household: One-person household,Multi religion household: One-person household,0.9999989670882583,TS023,TS075
+19088,19088,Household composition: One person household; measures: Value,Multi religion household: One-person household,0.9999989364201712,TS003,TS075
+155065,155065,Multiple main languages in household: One-person household,Multi religion household: One-person household,0.9999989197449081,TS026,TS075
+138656,138656,Number of people in household who previously served in UK armed forces: No people in the household previously served in UK armed forces,Household reference person previously served in UK armed forces: Household reference person has not previously served in regular or reserve UK armed forces,0.9993799280327159,TS072,TS074
+42309,42309,Passports held: Europe: Ireland; measures: Value,National identity: Irish only identity,0.9978213102861312,TS005,TS027
+116485,116485,Year of arrival in the UK: Arrived 2017 to 2019; measures: Value,"Length of residence in the UK: 2 years or more, but less than 5 years; measures: Value",0.9972678341032978,TS015,TS016
+116474,116474,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",0.9970820324685805,TS015,TS016
+137029,137029,UK armed forces veteran indicator: Has not previously served in any UK armed forces,Number of people in household who previously served in UK armed forces: No people in the household previously served in UK armed forces,0.9969191777218559,TS071,TS072
+153535,153535,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",Proficiency in English language: Main language is English (English or Welsh in Wales),0.9968136323241544,TS025,TS029
+137041,137041,UK armed forces veteran indicator: Previously served in UK armed forces,Household reference person previously served in UK armed forces: Household reference person previously served in regular UK armed forces,0.9967309165186257,TS071,TS074
+116479,116479,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",0.9965043065254408,TS015,TS016
+137056,137056,UK armed forces veteran indicator: Has not previously served in any UK armed forces,Household reference person previously served in UK armed forces: Household reference person has not previously served in regular or reserve UK armed forces,0.9964080620176579,TS071,TS074
+4633,4633,Marital and civil partnership status: Widowed or surviving civil partnership partner: Widowed; measures: Value,Living arrangements: Not living in a couple: Widowed or surviving partner from a civil partnership; measures: Value,0.9963789257444923,TS002,TS010
+4619,4619,Marital and civil partnership status: Widowed or surviving civil partnership partner; measures: Value,Living arrangements: Not living in a couple: Widowed or surviving partner from a civil partnership; measures: Value,0.9963294393301935,TS002,TS010
+116491,116491,Year of arrival in the UK: Arrived 2020 to 2021; measures: Value,Length of residence in the UK: Less than 2 years; measures: Value,0.9948357891723818,TS015,TS016
+117674,117674,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,National identity: Other identity only,0.9932897785319794,TS015,TS027
+138657,138657,Number of people in household who previously served in UK armed forces: 1 person in the household previously served in UK armed forces,Household reference person previously served in UK armed forces: Household reference person previously served in regular UK armed forces,0.9929484991621399,TS072,TS074
+117676,117676,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,National identity: Non-UK identity only,0.9929348878090803,TS015,TS027
+137051,137051,UK armed forces veteran indicator: Previously served in both regular and reserve UK armed forces,Household reference person previously served in UK armed forces: Household reference person previously served in both regular and reserve UK armed forces,0.9926921388605782,TS071,TS074
+137046,137046,UK armed forces veteran indicator: Previously served in UK reserve armed forces,Household reference person previously served in UK armed forces: Household reference person previously served in reserve UK armed forces,0.9926496296926949,TS071,TS074
+137018,137018,UK armed forces veteran indicator: Previously served in UK armed forces,Number of people in household who previously served in UK armed forces: 1 person in the household previously served in UK armed forces,0.9925271270911447,TS071,TS072
+122264,122264,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",National identity: Other identity only,0.9922916637053357,TS016,TS027
+122266,122266,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",National identity: Non-UK identity only,0.9921526605668406,TS016,TS027
+153554,153554,"Household language (English and Welsh): No people in household have English in England, or English or Welsh in Wales as a main language",Proficiency in English language: Main language is not English (English or Welsh in Wales),0.9905316933093332,TS025,TS029
+143319,143319,Ethnic group: White: Irish,National identity: Irish only identity,0.9904478205688446,TS021,TS027
+41069,41069,Passports held: Europe: Ireland; measures: Value,Ethnic group: White: Irish,0.9902499728918298,TS005,TS021
+211201,211201,Occupancy rating for bedrooms: Occupancy rating of bedrooms: -2 or less,Occupancy rating for rooms: Occupancy rating of rooms: -2 or less,0.9901280260469165,TS052,TS053
+128947,128947,Age of arrival in the UK: Arrived in the UK; measures: Value,National identity: Non-UK identity only,0.9892857723814411,TS018,TS027
+26339,26339,Country of birth: Antarctica and Oceania (including Australasia) and Other; measures: Value,"Passports held: Antarctica and Oceania, including Australasia; measures: Value",0.9889081761961247,TS004,TS005
+153448,153448,"Household language (English and Welsh): At least one but not all adults in household have English in England, or English or Welsh in Wales as a main language",Multiple main languages in household: Any other combination of multiple main languages,0.9888504131108723,TS025,TS026
+129261,129261,Age of arrival in the UK: Arrived in the UK; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,0.9884249285968734,TS018,TS029
+121878,121878,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",Age of arrival in the UK: Arrived in the UK; measures: Value,0.9874701652228277,TS016,TS018
+128945,128945,Age of arrival in the UK: Arrived in the UK; measures: Value,National identity: Other identity only,0.9874639883323386,TS018,TS027
+122283,122283,"Length of residence in the UK: 2 years or more, but less than 5 years; measures: Value",National identity: Other identity only,0.9872692607892967,TS016,TS027
+117655,117655,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,National identity: Other identity only,0.9872157003827107,TS015,TS027
+117657,117657,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,National identity: Non-UK identity only,0.9871884970065198,TS015,TS027
+122285,122285,"Length of residence in the UK: 2 years or more, but less than 5 years; measures: Value",National identity: Non-UK identity only,0.9870404299188059,TS016,TS027
+210154,210154,Number of bedrooms: 1 bedroom,Number of rooms (VOA): 2 rooms,0.9865299287817977,TS050,TS051
+116480,116480,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,"Length of residence in the UK: 2 years or more, but less than 5 years; measures: Value",0.9863751680540344,TS015,TS016
+156794,156794,National identity: Non-UK identity only,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,0.9859833147732919,TS027,TS029
+129099,129099,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,National identity: Non-UK identity only,0.9859828521515076,TS018,TS027
+116745,116745,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,Age of arrival in the UK: Arrived in the UK; measures: Value,0.9859292767827931,TS015,TS018
+129315,129315,Age of arrival in the UK: Arrived in the UK: Aged 25 to 29 years; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,0.9855745700555119,TS018,TS029
+129321,129321,Age of arrival in the UK: Arrived in the UK: Aged 30 to 44 years; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,0.9853731790675739,TS018,TS029
+129309,129309,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,0.9851109136754289,TS018,TS029
+129137,129137,Age of arrival in the UK: Arrived in the UK: Aged 30 to 44 years; measures: Value,National identity: Non-UK identity only,0.9846427934930396,TS018,TS027
+156782,156782,National identity: Other identity only,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,0.9845265102982055,TS027,TS029
+25982,25982,Country of birth: Europe: EU countries; measures: Value,Passports held: Europe: Other Europe; measures: Value,0.9840405437938162,TS004,TS005
+213643,213643,General health: Bad health,Disability: Disabled under the Equality Act: Day-to-day activities limited a lot,0.9839958390145525,TS037,TS038
+116763,116763,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,Age of arrival in the UK: Arrived in the UK; measures: Value,0.9839209102246002,TS015,TS018
+129097,129097,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,National identity: Other identity only,0.9837396724617138,TS018,TS027
+90526,90526,Age: Aged 73 years; measures: Value,Economic activity status: Economically inactive: Retired,0.983729177051048,TS007,TS066
+121860,121860,Length of residence in the UK: 10 years or more; measures: Value,Age of arrival in the UK: Arrived in the UK; measures: Value,0.9834815374514938,TS016,TS018
+121888,121888,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",Age of arrival in the UK: Arrived in the UK: Aged 30 to 44 years; measures: Value,0.9831811480942594,TS016,TS018
+116863,116863,Year of arrival in the UK: Arrived 2020 to 2021; measures: Value,Migrant indicator: Migrant from outside the UK: Address one year ago was outside the UK; measures: Value,0.9830518838586251,TS015,TS019
+129135,129135,Age of arrival in the UK: Arrived in the UK: Aged 30 to 44 years; measures: Value,National identity: Other identity only,0.9828281745993294,TS018,TS027
+116755,116755,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 30 to 44 years; measures: Value,0.9827578259477092,TS015,TS018
+39371,39371,Passports held: Europe: Other Europe; measures: Value,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",0.9826214371224762,TS005,TS016
+129118,129118,Age of arrival in the UK: Arrived in the UK: Aged 25 to 29 years; measures: Value,National identity: Non-UK identity only,0.9822755248815991,TS018,TS027
+4454,4454,Marital and civil partnership status: Married or in a registered civil partnership: Married: Opposite sex; measures: Value,Living arrangements: Living in a couple: Married or in a civil partnership: Opposite-sex couple; measures: Value,0.9818972988236048,TS002,TS010
+90256,90256,Age: Aged 65 to 74 years; measures: Value,Economic activity status: Economically inactive: Retired,0.9818294281185332,TS007,TS066
+4440,4440,Marital and civil partnership status: Married or in a registered civil partnership: Married; measures: Value,Living arrangements: Living in a couple: Married or in a civil partnership: Opposite-sex couple; measures: Value,0.9815252291057257,TS002,TS010
+121886,121886,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,0.9813769226887499,TS016,TS018
+39376,39376,Passports held: Europe: Other Europe: EU Member countries; measures: Value,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",0.9812389362822088,TS005,TS016
+142831,142831,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British","Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",0.9811870852932683,TS021,TS025
+42330,42330,Passports held: Europe: Other Europe; measures: Value,National identity: Other identity only,0.9808458924763297,TS005,TS027
+4426,4426,Marital and civil partnership status: Married or in a registered civil partnership; measures: Value,Living arrangements: Living in a couple: Married or in a civil partnership: Opposite-sex couple; measures: Value,0.9806361951261106,TS002,TS010
+4439,4439,Marital and civil partnership status: Married or in a registered civil partnership: Married; measures: Value,Living arrangements: Living in a couple: Married or in a civil partnership; measures: Value,0.9805391656547621,TS002,TS010
+4453,4453,Marital and civil partnership status: Married or in a registered civil partnership: Married: Opposite sex; measures: Value,Living arrangements: Living in a couple: Married or in a civil partnership; measures: Value,0.9804204095033192,TS002,TS010
+4425,4425,Marital and civil partnership status: Married or in a registered civil partnership; measures: Value,Living arrangements: Living in a couple: Married or in a civil partnership; measures: Value,0.9801742700080956,TS002,TS010
+117693,117693,Year of arrival in the UK: Arrived 2017 to 2019; measures: Value,National identity: Other identity only,0.9801031503569787,TS015,TS027
+117695,117695,Year of arrival in the UK: Arrived 2017 to 2019; measures: Value,National identity: Non-UK identity only,0.9800792433150038,TS015,TS027
+28573,28573,Country of birth: Europe; measures: Value,Age of arrival in the UK: Born in the UK; measures: Value,0.9799880286060318,TS004,TS018
+28209,28209,Country of birth: Europe; measures: Value,Year of arrival in the UK: Born in the UK; measures: Value,0.9799857192835151,TS004,TS015
+28377,28377,Country of birth: Europe; measures: Value,Length of residence in the UK: Born in the UK; measures: Value,0.9799802699825965,TS004,TS016
+211189,211189,Occupancy rating for bedrooms: Occupancy rating of bedrooms: 0,Occupancy rating for rooms: Occupancy rating of rooms: 0,0.9799181572113966,TS052,TS053
+42332,42332,Passports held: Europe: Other Europe; measures: Value,National identity: Non-UK identity only,0.9798791765663433,TS005,TS027
+39002,39002,Passports held: Europe: Other Europe; measures: Value,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,0.9796613838459289,TS005,TS015
+116771,116771,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,0.9796124102149346,TS015,TS018
+29093,29093,Country of birth: Europe; measures: Value,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",0.9795924645577806,TS004,TS021
+116753,116753,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,0.97957673416199,TS015,TS018
+117772,117772,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,0.9792436943730224,TS015,TS029
+122326,122326,"Length of residence in the UK: 2 years or more, but less than 5 years; measures: Value",Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,0.9789355995666505,TS016,TS029
+129116,129116,Age of arrival in the UK: Arrived in the UK: Aged 25 to 29 years; measures: Value,National identity: Other identity only,0.9786542166234594,TS018,TS027
+90466,90466,Age: Aged 71 years; measures: Value,Economic activity status: Economically inactive: Retired,0.978482373407323,TS007,TS066
+117419,117419,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,"Household language (English and Welsh): No people in household have English in England, or English or Welsh in Wales as a main language",0.9783330941745317,TS015,TS025
+28592,28592,Country of birth: Europe: United Kingdom; measures: Value,Age of arrival in the UK: Arrived in the UK; measures: Value,-0.9999999966910592,TS004,TS018
+116601,116601,Year of arrival in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK; measures: Value,-0.9999999917430114,TS015,TS018
+121842,121842,Length of residence in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK; measures: Value,-0.9999995012270411,TS016,TS018
+138660,138660,Number of people in household who previously served in UK armed forces: 1 person in the household previously served in UK armed forces,Household reference person previously served in UK armed forces: Household reference person has not previously served in regular or reserve UK armed forces,-0.9992121003824694,TS072,TS074
+137030,137030,UK armed forces veteran indicator: Has not previously served in any UK armed forces,Number of people in household who previously served in UK armed forces: 1 person in the household previously served in UK armed forces,-0.9969935696409074,TS071,TS072
+153536,153536,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",Proficiency in English language: Main language is not English (English or Welsh in Wales),-0.9968136323241544,TS025,TS029
+138653,138653,Number of people in household who previously served in UK armed forces: No people in the household previously served in UK armed forces,Household reference person previously served in UK armed forces: Household reference person previously served in regular UK armed forces,-0.9943338644679083,TS072,TS074
+137017,137017,UK armed forces veteran indicator: Previously served in UK armed forces,Number of people in household who previously served in UK armed forces: No people in the household previously served in UK armed forces,-0.9937193902511859,TS071,TS072
+116609,116609,Year of arrival in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,-0.9931522544434825,TS015,TS018
+28600,28600,Country of birth: Europe: United Kingdom; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,-0.993147163723021,TS004,TS018
+121850,121850,Length of residence in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,-0.9931450824615674,TS016,TS018
+121852,121852,Length of residence in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 30 to 44 years; measures: Value,-0.9931237460210811,TS016,TS018
+28602,28602,Country of birth: Europe: United Kingdom; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 30 to 44 years; measures: Value,-0.9931224749229083,TS004,TS018
+116611,116611,Year of arrival in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 30 to 44 years; measures: Value,-0.9931213975115369,TS015,TS018
+137044,137044,UK armed forces veteran indicator: Previously served in UK armed forces,Household reference person previously served in UK armed forces: Household reference person has not previously served in regular or reserve UK armed forces,-0.993065556617922,TS071,TS074
+153553,153553,"Household language (English and Welsh): No people in household have English in England, or English or Welsh in Wales as a main language",Proficiency in English language: Main language is English (English or Welsh in Wales),-0.9905316933093332,TS025,TS029
+137053,137053,UK armed forces veteran indicator: Has not previously served in any UK armed forces,Household reference person previously served in UK armed forces: Household reference person previously served in regular UK armed forces,-0.9897277619183867,TS071,TS074
+122228,122228,Length of residence in the UK: Born in the UK; measures: Value,National identity: Non-UK identity only,-0.9892967095661576,TS016,TS027
+117505,117505,Year of arrival in the UK: Born in the UK; measures: Value,National identity: Non-UK identity only,-0.9892908057037453,TS015,TS027
+29645,29645,Country of birth: Europe: United Kingdom; measures: Value,National identity: Non-UK identity only,-0.9892859769319938,TS004,TS027
+128928,128928,Age of arrival in the UK: Born in the UK; measures: Value,National identity: Non-UK identity only,-0.9892857723814413,TS018,TS027
+122308,122308,Length of residence in the UK: Born in the UK; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,-0.9884331024031429,TS016,TS029
+117718,117718,Year of arrival in the UK: Born in the UK; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,-0.9884317277579573,TS015,TS029
+29883,29883,Country of birth: Europe: United Kingdom; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,-0.9884249428911424,TS004,TS029
+129255,129255,Age of arrival in the UK: Born in the UK; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well,-0.9884249285968734,TS018,TS029
+122226,122226,Length of residence in the UK: Born in the UK; measures: Value,National identity: Other identity only,-0.9874749582677643,TS016,TS027
+116434,116434,Year of arrival in the UK: Born in the UK; measures: Value,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",-0.9874711662293557,TS015,TS016
+121877,121877,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",Age of arrival in the UK: Born in the UK; measures: Value,-0.9874701652228277,TS016,TS018
+28384,28384,Country of birth: Europe: United Kingdom; measures: Value,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",-0.9874698196782978,TS004,TS016
+117503,117503,Year of arrival in the UK: Born in the UK; measures: Value,National identity: Other identity only,-0.9874693086540717,TS015,TS027
+29643,29643,Country of birth: Europe: United Kingdom; measures: Value,National identity: Other identity only,-0.9874641497883422,TS004,TS027
+128926,128926,Age of arrival in the UK: Born in the UK; measures: Value,National identity: Other identity only,-0.9874639883323386,TS018,TS027
+121851,121851,Length of residence in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 25 to 29 years; measures: Value,-0.987247607654418,TS016,TS018
+116610,116610,Year of arrival in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 25 to 29 years; measures: Value,-0.9872277693168436,TS015,TS018
+28601,28601,Country of birth: Europe: United Kingdom; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 25 to 29 years; measures: Value,-0.9872218644581513,TS004,TS018
+116472,116472,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,Length of residence in the UK: Born in the UK; measures: Value,-0.9859367691085326,TS015,TS016
+116744,116744,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,Age of arrival in the UK: Born in the UK; measures: Value,-0.9859292767827931,TS015,TS018
+28229,28229,Country of birth: Europe: United Kingdom; measures: Value,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,-0.9859289144200024,TS004,TS015
+128387,128387,Age of arrival in the UK: Arrived in the UK: Aged 15 years; measures: Value,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",-0.9854854010561943,TS018,TS021
+153443,153443,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",Multiple main languages in household: Any other combination of multiple main languages,-0.9842746149654269,TS025,TS026
+116762,116762,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,Age of arrival in the UK: Born in the UK; measures: Value,-0.9839209102246002,TS015,TS018
+28230,28230,Country of birth: Europe: United Kingdom; measures: Value,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,-0.9839206472244386,TS004,TS015
+116477,116477,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,Length of residence in the UK: Born in the UK; measures: Value,-0.9839110074892288,TS015,TS016
+116607,116607,Year of arrival in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 16 to 17 years; measures: Value,-0.9836378474416678,TS015,TS018
+28598,28598,Country of birth: Europe: United Kingdom; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 16 to 17 years; measures: Value,-0.9836319728545353,TS004,TS018
+121848,121848,Length of residence in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 16 to 17 years; measures: Value,-0.9836313348596502,TS016,TS018
+121859,121859,Length of residence in the UK: 10 years or more; measures: Value,Age of arrival in the UK: Born in the UK; measures: Value,-0.9834815374514938,TS016,TS018
+28383,28383,Country of birth: Europe: United Kingdom; measures: Value,Length of residence in the UK: 10 years or more; measures: Value,-0.9834811193231395,TS004,TS016
+116433,116433,Year of arrival in the UK: Born in the UK; measures: Value,Length of residence in the UK: 10 years or more; measures: Value,-0.9834732683374605,TS015,TS016
+128363,128363,Age of arrival in the UK: Arrived in the UK: Aged 10 to 14 years; measures: Value,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",-0.9824726803651435,TS018,TS021
+142832,142832,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British","Household language (English and Welsh): At least one but not all adults in household have English in England, or English or Welsh in Wales as a main language",-0.9812716512425254,TS021,TS025
+28574,28574,Country of birth: Europe; measures: Value,Age of arrival in the UK: Arrived in the UK; measures: Value,-0.9799880286060318,TS004,TS018
+116608,116608,Year of arrival in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 18 to 19 years; measures: Value,-0.9793170979673163,TS015,TS018
+28599,28599,Country of birth: Europe: United Kingdom; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 18 to 19 years; measures: Value,-0.9793083947196909,TS004,TS018
+121849,121849,Length of residence in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 18 to 19 years; measures: Value,-0.9793014103717402,TS016,TS018
+122061,122061,Length of residence in the UK: 10 years or more; measures: Value,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",-0.9783917781607127,TS016,TS021
+128773,128773,Age of arrival in the UK: Arrived in the UK: Aged 15 years; measures: Value,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",-0.977063392146664,TS018,TS025
+128769,128769,Age of arrival in the UK: Arrived in the UK: Aged 10 to 14 years; measures: Value,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",-0.9769882000628203,TS018,TS025
+128753,128753,Age of arrival in the UK: Arrived in the UK; measures: Value,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",-0.9768467324706317,TS018,TS025
+128267,128267,Age of arrival in the UK: Arrived in the UK; measures: Value,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",-0.9764907535593075,TS018,TS021
+129283,129283,Age of arrival in the UK: Arrived in the UK: Aged 10 to 14 years; measures: Value,Proficiency in English language: Main language is English (English or Welsh in Wales),-0.9763782843228426,TS018,TS029
+28597,28597,Country of birth: Europe: United Kingdom; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 15 years; measures: Value,-0.9762153454525959,TS004,TS018
+116606,116606,Year of arrival in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 15 years; measures: Value,-0.9762122131964605,TS015,TS018
+121847,121847,Length of residence in the UK: Born in the UK; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 15 years; measures: Value,-0.9761904915249664,TS016,TS018
+129289,129289,Age of arrival in the UK: Arrived in the UK: Aged 15 years; measures: Value,Proficiency in English language: Main language is English (English or Welsh in Wales),-0.975585949148394,TS018,TS029
+153538,153538,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English well,-0.9754120104718583,TS025,TS029
+122318,122318,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value",Proficiency in English language: Main language is English (English or Welsh in Wales),-0.9747545894097065,TS016,TS029
+28579,28579,Country of birth: Europe; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 15 years; measures: Value,-0.9746350396469877,TS004,TS018
+143536,143536,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",Proficiency in English language: Main language is not English (English or Welsh in Wales),-0.974180717929175,TS021,TS029
+128362,128362,Age of arrival in the UK: Arrived in the UK: Aged 10 to 14 years; measures: Value,Ethnic group: White,-0.9741196761093202,TS018,TS021
+155014,155014,Multiple main languages in household: Any other combination of multiple main languages,Proficiency in English language: Main language is English (English or Welsh in Wales),-0.9740472885625753,TS026,TS029
+29882,29882,Country of birth: Europe: United Kingdom; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales),-0.97384279937188,TS004,TS029
+129254,129254,Age of arrival in the UK: Born in the UK; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales),-0.9738427850357521,TS018,TS029
+129259,129259,Age of arrival in the UK: Arrived in the UK; measures: Value,Proficiency in English language: Main language is English (English or Welsh in Wales),-0.9738427850357521,TS018,TS029
+117717,117717,Year of arrival in the UK: Born in the UK; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales),-0.9738385084092199,TS015,TS029
+122307,122307,Length of residence in the UK: Born in the UK; measures: Value,Proficiency in English language: Main language is not English (English or Welsh in Wales),-0.973837830734912,TS016,TS029
+117770,117770,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,Proficiency in English language: Main language is English (English or Welsh in Wales),-0.9723724213073598,TS015,TS029
+122169,122169,Length of residence in the UK: Born in the UK; measures: Value,"Household language (English and Welsh): No people in household have English in England, or English or Welsh in Wales as a main language",-0.9716400298140799,TS016,TS025
+117383,117383,Year of arrival in the UK: Born in the UK; measures: Value,"Household language (English and Welsh): No people in household have English in England, or English or Welsh in Wales as a main language",-0.9716386511824914,TS015,TS025
+128752,128752,Age of arrival in the UK: Born in the UK; measures: Value,"Household language (English and Welsh): No people in household have English in England, or English or Welsh in Wales as a main language",-0.9716380575486895,TS018,TS025
+29490,29490,Country of birth: Europe: United Kingdom; measures: Value,"Household language (English and Welsh): No people in household have English in England, or English or Welsh in Wales as a main language",-0.9716372088573278,TS004,TS025
+128339,128339,Age of arrival in the UK: Arrived in the UK: Aged 8 to 9 years; measures: Value,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",-0.9716311166014003,TS018,TS021
+153441,153441,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language","Multiple main languages in household: Main language differs between generations, but not within partnerships",-0.9714832499342165,TS025,TS026
+213767,213767,Disability: Not disabled under the Equality Act,Number of disabled people in household: 1 person disabled under the Equality Act in household,-0.9712973565243949,TS038,TS040
+28378,28378,Country of birth: Europe; measures: Value,Length of residence in the UK: 10 years or more; measures: Value,-0.9712240137600971,TS004,TS016
+122174,122174,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value","Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",-0.9709534572359723,TS016,TS025
+128315,128315,Age of arrival in the UK: Arrived in the UK: Aged 5 to 7 years; measures: Value,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",-0.9708496833468305,TS018,TS021
+117764,117764,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value,Proficiency in English language: Main language is English (English or Welsh in Wales),-0.9703037383179283,TS015,TS029
+128459,128459,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",-0.9702869545262073,TS018,TS021
+128338,128338,Age of arrival in the UK: Arrived in the UK: Aged 8 to 9 years; measures: Value,Ethnic group: White,-0.969955048669123,TS018,TS021
+116435,116435,Year of arrival in the UK: Born in the UK; measures: Value,"Length of residence in the UK: 2 years or more, but less than 5 years; measures: Value",-0.9694219563064939,TS015,TS016
+153541,153541,"Household language (English and Welsh): At least one but not all adults in household have English in England, or English or Welsh in Wales as a main language",Proficiency in English language: Main language is English (English or Welsh in Wales),-0.9694112544897326,TS025,TS029
+28385,28385,Country of birth: Europe: United Kingdom; measures: Value,"Length of residence in the UK: 2 years or more, but less than 5 years; measures: Value",-0.9694111503553118,TS004,TS016
+121895,121895,"Length of residence in the UK: 2 years or more, but less than 5 years; measures: Value",Age of arrival in the UK: Born in the UK; measures: Value,-0.9694111225622505,TS016,TS018
+128785,128785,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",-0.9691293196484518,TS018,TS025
+28578,28578,Country of birth: Europe; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 10 to 14 years; measures: Value,-0.969037215999841,TS004,TS018
+142947,142947,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",Multiple main languages in household: Any other combination of multiple main languages,-0.9690065665164608,TS021,TS026
+28584,28584,Country of birth: Europe; measures: Value,Age of arrival in the UK: Arrived in the UK: Aged 30 to 44 years; measures: Value,-0.9683094981982546,TS004,TS018
+117416,117416,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",-0.9680578056056957,TS015,TS025
+128411,128411,Age of arrival in the UK: Arrived in the UK: Aged 16 to 17 years; measures: Value,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",-0.9678211943576337,TS018,TS021
