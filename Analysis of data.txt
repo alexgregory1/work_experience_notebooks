@@ -1,0 +1,13 @@
+Analysing our data
+
+-Identify certain characteristics which cause significantly higher risk of PII
+
+-Chloropleth maps to show areas of higher risk to visualise data if geopandas becomes avalible
+
+-Consider correlations between characteristics in calculations
+
+-Flag areas where selected characteristics lead to 10 or fewer people in a particular area
+
+-Which PII is more sensitive than others- analyse which factors both create higher risk and are sensitive
+  -consider not publishing more sensitive PII
+  -have 'other' column for more identifiable data/ characteristics which few people occupy; decreases risk of PII
