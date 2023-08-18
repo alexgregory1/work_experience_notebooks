@@ -1,6 +1,6 @@
 .venv/
 .ipynb_checkpoints/
-data/census2021*
+data/census2021*/
 data/shape_data/
 analysis.ipynb
 environment.yml
