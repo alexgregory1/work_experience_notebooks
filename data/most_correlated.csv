@@ -1,21 +1,23 @@
 ,uid,variable1,variable2,coefficient,k1,k2
-2475,2475,General health: Very good health,Mean Qualification Years,0.9648028315166229,TS037,MQY
-2182,2182,Distance travelled to work: Works mainly from home,Highest level of qualification: Level 4 qualifications and above,0.9080583021194458,TS058,TS067
-145,145,Residence type: Lives in a household; measures: Value,Mean Qualification Years,0.8868122991059728,TS001,MQY
-1698,1698,Age: Aged 45 to 49 years,Mean Qualification Years,0.8595686896834235,TS007A,MQY
-2477,2477,General health: Good health,Mean Qualification Years,0.8093528792077755,TS037,MQY
-2450,2450,Highest level of qualification: Level 4 qualifications and above,General health: Very good health,0.8082121505074541,TS067,TS037
-1700,1700,Age: Aged 50 to 54 years,Mean Qualification Years,0.8051108837072054,TS007A,MQY
-468,468,Country of birth: Middle East and Asia; measures: Value,Religion: Muslim,0.7966436201680078,TS004,TS030
-2428,2428,Highest level of qualification: No qualifications,General health: Bad health,0.7850780741467414,TS067,TS037
-2231,2231,Distance travelled to work: Works mainly from home,General health: Very good health,0.783272654541643,TS058,TS037
-2471,2471,Highest level of qualification: Level 4 qualifications and above,Mean Qualification Years,0.7714870751814249,TS067,MQY
-1696,1696,Age: Aged 40 to 44 years,Mean Qualification Years,0.7681284811925938,TS007A,MQY
+1864,1864,Distance travelled to work: Works mainly from home,Highest level of qualification: Level 4 qualifications and above,0.9080583021194458,TS058,TS067
+2092,2092,Highest level of qualification: Level 4 qualifications and above,General health: Very good health,0.8082121505074541,TS067,TS037
+230,230,Country of birth: Middle East and Asia; measures: Value,Religion: Muslim,0.7966436201680078,TS004,TS030
+2070,2070,Highest level of qualification: No qualifications,General health: Bad health,0.7850780741467414,TS067,TS037
+1913,1913,Distance travelled to work: Works mainly from home,General health: Very good health,0.783272654541643,TS058,TS037
 47,47,Residence type: Lives in a communal establishment; measures: Value,Age: Aged 15 to 19 years,0.7632592268392506,TS001,TS007A
-2429,2429,Highest level of qualification: No qualifications,General health: Very bad health,0.7493835545135141,TS067,TS037
-2177,2177,Distance travelled to work: Works mainly from home,Highest level of qualification: No qualifications,-0.8190300703123675,TS058,TS067
-2178,2178,Distance travelled to work: Works mainly from home,Highest level of qualification: Level 1 and entry level qualifications,-0.7780626979286823,TS058,TS067
+2071,2071,Highest level of qualification: No qualifications,General health: Very bad health,0.7493835545135141,TS067,TS037
+2069,2069,Highest level of qualification: No qualifications,General health: Fair health,0.7037169142209646,TS067,TS037
+524,524,Country of birth: Europe: United Kingdom; measures: Value,Highest level of qualification: Apprenticeship,0.6989049572177567,TS004,TS067
+1147,1147,Age: Aged 25 to 29 years,Number of bedrooms: 1 bedroom,0.6967122608157713,TS007A,TS050
+603,603,Country of birth: Antarctica and Oceania (including Australasia) and Other; measures: Value,Highest level of qualification: Level 4 qualifications and above,0.6926490212307829,TS004,TS067
+477,477,Country of birth: Europe: EU countries: European Union EU14; measures: Value,Number of bedrooms: 1 bedroom,0.6898951567247287,TS004,TS050
+1859,1859,Distance travelled to work: Works mainly from home,Highest level of qualification: No qualifications,-0.8190300703123675,TS058,TS067
+1860,1860,Distance travelled to work: Works mainly from home,Highest level of qualification: Level 1 and entry level qualifications,-0.7780626979286823,TS058,TS067
 29,29,Residence type: Lives in a household; measures: Value,Age: Aged 15 to 19 years,-0.763259226839251,TS001,TS007A
-2452,2452,Highest level of qualification: Level 4 qualifications and above,General health: Fair health,-0.7597739795659554,TS067,TS037
-775,775,Country of birth: Europe: EU countries: European Union EU14; measures: Value,Highest level of qualification: Level 2 qualifications,-0.7516560747069936,TS004,TS067
-2233,2233,Distance travelled to work: Works mainly from home,General health: Fair health,-0.7433021865210802,TS058,TS037
+2094,2094,Highest level of qualification: Level 4 qualifications and above,General health: Fair health,-0.7597739795659554,TS067,TS037
+537,537,Country of birth: Europe: EU countries: European Union EU14; measures: Value,Highest level of qualification: Level 2 qualifications,-0.7516560747069936,TS004,TS067
+1915,1915,Distance travelled to work: Works mainly from home,General health: Fair health,-0.7433021865210802,TS058,TS037
+1916,1916,Distance travelled to work: Works mainly from home,General health: Bad health,-0.7054122772032431,TS058,TS037
+2072,2072,Highest level of qualification: Level 1 and entry level qualifications,General health: Very good health,-0.7028432323235321,TS067,TS037
+2067,2067,Highest level of qualification: No qualifications,General health: Very good health,-0.7025290096572859,TS067,TS037
+538,538,Country of birth: Europe: EU countries: European Union EU14; measures: Value,Highest level of qualification: Apprenticeship,-0.6941577083366033,TS004,TS067

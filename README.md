@@ -68,4 +68,5 @@ Start Jupyter Lab.
 $ jupyterlab
 ```
 
-hello 
+text
+
