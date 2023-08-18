@@ -1,2 +1,9 @@
 .venv/
 .ipynb_checkpoints/
+data/census2021*/
+data/shape_data/
+analysis.ipynb
+environment.yml
+notebook1.ipynb
+analysis1.ipynb
+
